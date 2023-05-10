@@ -11,3 +11,5 @@ opencv-python
 IProgress
 ipywidgets
 tensorboard
+seaborn
+pandas
